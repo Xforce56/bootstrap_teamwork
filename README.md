@@ -1,4 +1,11 @@
 # bootstrap_teamwork
 Bootstrap teamwork task!
 
-This is a readme file!
+Tasks:
+- Modal login
+- Scrollspy with Affix vertical menu
+- Tooltip
+- Animated alerts for login
+- Glyphicons - ok
+- Tables
+- Carousel with caption
